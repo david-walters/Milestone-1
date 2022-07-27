@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- bootstrap cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+        integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap" rel="stylesheet">
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+    <!-- favicon -->
+    <link rel="shortcut icon" href="Images/favicon.png">
+    <!-- title -->
+    <title>Dave's Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <!-- navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <button class="navbar-toggler ml-auto border-0" type="button" data-toggle="collapse"
+                data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span><i class="fas fa-stream"></i></span>
+            </button>
+            <div class="collapse navbar-collapse text-right" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto font-weight-bold">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About Me</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- The following section was completed by following a step-by-step guide
+         I found on youtube and I added my own preferences and some of my own CSS -->
+ 
+<section class="transition-in-center">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="head text-center text-white py-3">
+                                    <h3>Contact Me</h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- I am using formspree to be able to recieve messages from my contact me form and to be protected from spam -->
+
+                        <form action="https://formspree.io/f/mdobvnzj" method="POST" class="form p-2 pl-3">
+                            <div class="form-row my-5">
+                                <div class="col-lg-6">
+                                    <input type="text" name="First Name" class="effect-1 mt-1" placeholder="First Name" required>
+                                    <span class="Focus-border"></span>
+                                </div>
+                                <div class="col-lg-6">
+                                    <input type="text" name="Last Name" class="effect-1 mt-1" placeholder="Last Name" required>
+                                    <span class="Focus-border"></span>
+                                </div>
+                            </div>
+                            <div class="form-row pb-4">
+                                <div class="col-lg-12">
+                                    <input type="email" name="Email" class="effect-1" placeholder="Email Address" required>
+                                    <span class="Focus-border"></span>
+                                </div>
+                            </div>
+                            <div class="form-row pt-5">
+                                <div class="col-lg-12">
+                                    <textarea name="Message" id="" cols="30" rows="5" type="text" class="effect-1" placeholder="Your Message" required></textarea>
+                                    <span class="Focus-border"></span>
+                                </div>
+                            </div>
+                            <div class="form-row pt-4">
+                                <div class="col-lg-6">
+                                   <p><input type="checkbox" required> I'm not a robot</p> 
+                                </div>
+                                <div class="offset-2 col-lg-4">
+                                   <button type="submit" class="btn1">Send Message</button> 
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+  
+    <!-- footer -->
+   <footer class="page-footer mastfoot mt-auto  ">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md-3 offset-md-9 text-right social-media-links">
+                <a href="https://github.com/david-walters" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/david-walters-ab455b235/" target="_blank"><i
+                        class="fab fa-linkedin"></i></a>
+                        
+                <!-- yet to be added when aquired -->
+                <a href="#" target="_blank"><i class="fas fa-award"></i></a>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-12 col-md-3 offset-md-9 text-right copyright-info">
+                <h6>David Walters &#169;</h6>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!-- font awesome icons -->
+<script src="https://kit.fontawesome.com/b7393e8d5a.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
+    crossorigin="anonymous"></script>
