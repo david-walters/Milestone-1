@@ -38,6 +38,26 @@ The coding for my header navbar would be used for all the pages.
 
 For a footer, I used the `page-footer` bootstrap class in a footer tag and made three navigation links and placed them at the bottom right of every page. Instead of text, I used icons from **fontawesome.com** which make a relatively clear sign as to where the links would take the user. The Github icon will navigate directly to this Github profile of mine, the Linkedin icon will navigate to my personal Linkedin profile, and an award icon, which is currently a null link, that I hope will be setup to navigate to my Coding Certificate that I should receive from The Learning People.
 
-Just like the header navbar, the footer links also become red when the mouse hovers over them, and using `target="_blank"` on each icon, it will open up each page in a new tab.
+Just like the header navbar, the footer links also become red when the mouse hovers over them, and using the code `target="_blank"` on each icon, it will open up each page in a new tab.
 
 ### About Me Page (about.html)
+
+This page is intended to show information regarding myself to any employers. So, it will basically act like a summerised CV.
+
+I began with a photo of myself, a title for presentational purposes, and formally displayed my name, age, and current location.
+
+The page is then governed by three sections as the user scrolls down the page;
+
+- Three titles acting like a cover letter
+- History section showing qualifications, education, and work history
+- Personal interests showing my hobbies and likes for additional information
+
+Each section on this page was constructed using the following code;
+
+```
+        <div class="container">
+          <div class="row text-center">
+            <div class="col-md-4">
+
+```
+
