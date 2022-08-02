@@ -2,19 +2,18 @@
 
 This is a website that I created which is my first assignment on the Front-End Web Development course with The Learning People. The tasks of my assignment were the following;
 
--	Create an online Portfolio for yourself with a minimum of 3 pages or (if using a 
-single scrolling page), at least 3 separate page areas.
--	 Home,  About and Contact Me. 
--	You may create an empty Portfolio page also for you to upload future projects. 
+>-	Create an online Portfolio for yourself with a minimum of 3 pages or (if using a 
+>single scrolling page), at least 3 separate page areas.
+>-	 Home,  About and Contact Me. 
+>-	You may create an empty Portfolio page also for you to upload future projects. 
 
-Mandatory Requirements Static front end project: 
+>Mandatory Requirements Static front end project: 
 
-Information Architecture:
--	Incorporate a main navigation menu and structured layout (you might want to use Bootstrap to accomplish this). 
--	Incorporate a footer at the bottom of each page.
--	Maintain clear separation between code written by you and code from external sources using clear comments. Include the url of where you found the code (e.g. libraries or tutorials). 
-Documentation: 
--	Write a README.md file for your project that explains what the project does and the value that it provides to its users. Attribute any code from other sources. 
+>Information Architecture:
+>-	Incorporate a main navigation menu and structured layout (you might want to use Bootstrap to accomplish this). 
+>-	Incorporate a footer at the bottom of each page.
+>-	Maintain clear separation between code written by you and code from external sources using clear comments. Include the url of where you found the code (e.g. libraries or tutorials).
+>-	Write a README.md file for your project that explains what the project does and the value that it provides to its users. Attribute any code from other sources. 
 
 ## Initional Steps I Took to Complete This Assignment
 
