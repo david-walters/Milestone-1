@@ -57,10 +57,13 @@ Each section on this page was constructed using the following code;
         <div class="container">
           <div class="row text-center">
             <div class="col-md-4">
-
 ```
 
-The class `container` will make the whole entire div have a working space of 12 columns. The class `col-md-4` will make that div take up 4 of those 12 columns, so it will take up one third of the container div. I did this three times which then displayedS three columns in a row. The `md` will nicely stack all three divs in one line when the screen width gets to 970px or less.
+The class `container` will make the whole entire div have a working space of 12 columns. The class `col-md-4` will make that div take up 4 of those 12 columns, so it will take up one third of the container div. I did this three times which then displayed the three divs as three columns in a row. The `md` will nicely stack all three divs in one line when the screen width gets to 970px or less.
 
 Despite having the same HTML coding for each section, they appear differently due to using different CSS techniques such as bordering the divs, box shadow, and using different colours and list styles. I also chose some interesting icons that I found on ***www.fontawesome.com***.
+
+### Contact Page (contact.html)
+
+This page is intended for employers to contact me via email whilst keeping my contact details private.
 
