@@ -18,7 +18,7 @@ This is a website that I created which is my first assignment on the Front-End W
 ## Initional Steps I Took to Complete This Assignment
 
 Having no prior experience of buiding a website, I took to the internet to find some portfolio examples that fitted the assignment criteria. 
-I eventually came accross a simple one but I wasnt't too happy with the user experience that I received from it. Doing this gave men the insight of what I wanted for my portfolio and an understanding of how to begin.
+Doing this gave me an insight of what I wanted for my portfolio and an understanding of how to begin.
 
 I used some course materials to learn basic coding with HTML and CSS and a few Youtube videos on how to understand Bootstrap — as I felt Bootstrap was essential for me to build a responive website.
 
@@ -65,5 +65,9 @@ Despite having the same HTML coding for each section, they appear differently du
 
 ### Contact Page (contact.html)
 
-This page is intended for employers to contact me via email whilst keeping my contact details private.
+This page is intended for employers to contact me via email whilst keeping my contact details undisclosed.
+
+The user is able to put their first and last name, their email address for me to get back to them, and the message they want to write to me. All the information the user has provided will be sent to me via email after they have gone through a quick verification process to protect me from spam. This is all done using **formspree**.
+
+Formspree acts like the middle man when sending emails. Once you have made an account ***https://formspree.io/*** you will be given a code to put into your form tag which will allow you to receive emails without disclosing your email address. It also saves you from having to do any JavaScript as it is all done for you.
 
