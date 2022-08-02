@@ -44,7 +44,7 @@ Just like the header navbar, the footer links also become red when the mouse hov
 
 This page is intended to show information regarding myself to any employers. So, it will basically act like a summerised CV.
 
-I began with a photo of myself, a title for presentational purposes, and formally displayed my name, age, and current location.
+I began with a photo of myself, a title for presentational purposes, and I formally displayed my name, age, and current location.
 
 The page is then governed by three sections as the user scrolls down the page;
 
@@ -60,4 +60,5 @@ Each section on this page was constructed using the following code;
             <div class="col-md-4">
 
 ```
+Despite having the same HTML coding for each section, they appear differently due to using different CSS techniques such as bordering the divs, box shadow, and using different colours and list styles. I also chose some interesting icons that I found on ***www.fontawesome.com***.
 
