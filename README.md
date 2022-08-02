@@ -67,7 +67,7 @@ Despite having the same HTML coding for each section, they appear differently du
 
 This page is intended for employers to contact me via email whilst keeping my contact details undisclosed.
 
-The user is able to put their first and last name, their email address for me to get back to them, and the message they want to write to me. All the information the user has provided will be sent to me via email after they have gone through a quick verification process to protect me from spam. This is all done using **formspree**.
+The user is able to put their first and last name, their email address for me to get back to them, and the message they want to send to me. All the information the user has provided will be sent to me via email after they have gone through a quick verification process to protect me from spam. This is all done using **formspree**.
 
-Formspree acts like the middle man when sending emails. Once you have made an account ***https://formspree.io/*** you will be given a code to put into your form tag which will allow you to receive emails without disclosing your email address. It also saves you from having to do any JavaScript as it is all done for you.
+Formspree acts like the middle man when sending emails. Once you have made an account on ***https://formspree.io/***, you will be given a code to put into your form tag which will allow you to receive emails without disclosing your email address. It also saves you from having to do any JavaScript as it is all done for you.
 
