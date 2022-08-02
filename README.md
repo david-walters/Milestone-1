@@ -6,9 +6,9 @@ This is a website that I created which is my first assignment on the Front-End W
 >single scrolling page), at least 3 separate page areas.
 >-	 Home,  About and Contact Me. 
 >-	You may create an empty Portfolio page also for you to upload future projects. 
-
+>
 >Mandatory Requirements Static front end project: 
-
+>
 >Information Architecture:
 >-	Incorporate a main navigation menu and structured layout (you might want to use Bootstrap to accomplish this). 
 >-	Incorporate a footer at the bottom of each page.
