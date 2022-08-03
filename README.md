@@ -153,4 +153,4 @@ I have so much more to learn, more experience to gain, and I can imagine that I 
 
 It has been a great experience and I'm looking forward to working on my other project assignments that I shall be uploading to my portfolio for people to see.
 
-:+1: Thanks for checking this out! :+1:
+Thanks for checking this out! :+1:
