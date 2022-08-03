@@ -76,3 +76,79 @@ For the design and layout of the contact form, I followed a youtube tutorial lin
 I came to realise that this tutorial showed how to present a contact form but not how to make a practicle one that can actually be utilised. So, I found another Youtube video showing how to use **formspree** which entailed building a practical contact form, which is linked here https://www.youtube.com/watch?v=0X0kovjzLrw. I also researched what attributes should there be on a contact form and what to have for good practices.
 
 I tested the contact form and sent myself some emails and it works perfectly.
+
+## Interesting Issues Through Developing
+
+Of course, as anyone would, I had many issues that I came across when developing my website from having an additional space in the coding syntax (preventing the code from working) and to using git version control with the incorrect origin  (and left me wondering why it isn't being pushed).
+
+Often I would have rendered my webpage and it will appear just how I wanted it, but when viewed from mobile view I would encounter many display issues with the design and text allignment. I had to constantly compromise to achiev best results in different screen sizes.
+
+Due to the issues I had regarding Github, I wasn't able to regularily commit my work, but instead I continued to develop my website locally until I was ready to resolve the Github issues.
+
+Once I managed to push all the files to Github, only the index file was being loaded when hosting the website. I realised that Visual Studio Code is not case sensitive with the file names and Github is, so it worked locally but not remotely. It was a matter of one capital letter in the file names that prevented the files from being found.
+
+All the issues I encountered were a great experience as I learned many things from them.
+
+
+## Technologies Used
+
+- [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+    - The project uses **HTML5** to create the basic elements and content of my website.
+- [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+    - The project uses **CSS3** to add custom styles to the elements and content of my website.
+- [**Bootstrap v4.3**](https://getbootstrap.com/)
+    - The project uses **Bootstrap v4.3** to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
+- [**jQuery**](https://jquery.com)
+    - The project uses **jQuery** to simplify DOM manipulation. This is the standard jQuery that is built with Bootstrap components.
+- [**JavaScript**](https://www.javascript.com/)
+    - The project uses **JavaScript** from Bootstrap which is required to add functionality to some of Bootstrap's components.
+- [**Font Awesome**](https://fontawesome.com/)
+    - The project uses **Font Awesome** for the social media links and the hamburger button on my website.
+- [**Visual Studio Code**](https://code.visualstudio.com/)
+    - I've used **Visual Studio Code** as the development environment to write the code for my website.
+- [**Git**](https://git-scm.com/)
+    - I've used **Git** as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
+- [**GitHub**](https://github.com/)
+    - I've used **GitHub** as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
+- [**Chrome DevTools**](https://developer.chrome.com/docs/devtools/)
+    - I've used **Chrome DevTools** to view my website from different screen sizes and to play around with the HTML and CSS before deciding what code to implement.
+
+## Deployment
+
+The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
+
+1. Opened the main directory in documents folder, right clicked, selected "git bash here."
+2. Initialised Git using the `git init` command.
+3. Added all files to the Staging area (Git) using the `git add .` command.
+4. Committed the files to Git using the `git commit -m "First commit"` command.
+5. Created a new repository in GitHub called 'Milestone-1'.
+6. Copied the below code from GitHub into the terminal window:
+
+    ```
+    git remote add origin https://https://github.com/david-walters/Milestone-1.git
+    
+    git push -u origin main
+    
+    ```
+
+7. Entered my GitHub username and password to push the files from Git to GitHub.
+8. Went into 'Settings' on my repository page in GitHub.
+9. Selected the 'main branch' option under the 'GitHub Pages' section.
+10. Opened the provided link to my website in a new tab.
+
+### Repository Link
+
+**https://github.com/david-walters/Milestone-1.git**
+
+
+## Personal Overview
+
+From the beginning to end of this assignment, it has been a big journey for me. I started with no experience and I experienced so much in such little time. I came across many hurdles that I overcame through perserverance, problem solving, and research — all of it went in my favour.
+
+I have so much more to learn, more experience to gain, and I can imagine that I will look back at this website one day and think "What on earth was I thinking" :joy:
+
+It has been a great experience and I'm looking forward to working on my other project assignments that I shall be uploading to my portfolio for people to see.
+
+Thanks for checking this out! 
+
+:+1:
