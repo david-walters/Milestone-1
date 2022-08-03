@@ -147,7 +147,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ## Personal Overview
 
-From the beginning to end of this assignment, it has been a big journey for me. I started with no experience and I experienced so much in such little time. I came across many hurdles that I overcame through perserverance, problem solving, and research — all of it went in my favour.
+From the beginning to the end of this assignment, it has been a big journey for me. I started with no experience and I experienced so much in such little time. I came across many hurdles that I overcame through perserverance, problem solving, and research — all of it went in my favour.
 
 I have so much more to learn, more experience to gain, and I can imagine that I will look back at this website one day and think "What on earth was I thinking" :joy:
 
