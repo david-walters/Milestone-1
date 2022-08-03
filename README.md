@@ -35,7 +35,7 @@ For navigation to the **about.html** and **contact.html** I created a header wit
 I initially felt that the nav links weren't too easy to notice, so I increased the font size, and to match the colour of the portfolio button and to start a bit of a colour theme, I pragrammed the nav links to change to a red colour when they are hovered over by the mouse.
 The coding for my header navbar would be used for all the pages.
 
-For a footer, I used the `page-footer` bootstrap class in a footer tag and made three navigation links and placed them at the bottom right of every page. Instead of text, I used icons from **fontawesome.com** which make a relatively clear sign as to where the links would take the user. The Github icon will navigate directly to this Github profile of mine, the Linkedin icon will navigate to my personal Linkedin profile, and an award icon, which is currently a null link, that I hope will be setup to navigate to my Coding Certificate that I should receive from The Learning People.
+For a footer, I used the `page-footer` bootstrap class in a footer tag and made three navigation links and placed them at the bottom right of every page. Instead of text, I used icons from ***www.fontawesome.com*** which make a relatively clear sign as to where the links would take the user. The Github icon will navigate directly to this Github profile of mine, the Linkedin icon will navigate to my personal Linkedin profile, and an award icon, which is currently a null link, that I hope will be setup to navigate to my Coding Certificate that I should receive from The Learning People.
 
 Just like the header navbar, the footer links also become red when the mouse hovers over them, and using the code `target="_blank"` on each icon, it will open up each page in a new tab.
 
@@ -59,9 +59,9 @@ Each section on this page was constructed using the following code;
             <div class="col-md-4">
 ```
 
-The class `container` will make the whole entire div have a working space of 12 columns. The class `col-md-4` will make that div take up 4 of those 12 columns, so it will take up one third of the container div. I did this three times which then displayed the three divs as three columns in a row. The `md` will nicely stack all three divs in one line when the screen width gets to 970px or less.
+The class `container` will make the whole entire div have a working space of 12 columns. The class `col-md-4` will occupy 4 of those 12 columns, so it will take up one third of the container div. I did this three times which then displayed the three divs as three columns in a row. The `md` will nicely stack all three divs in one line when the screen width gets to 970px or less.
 
-Despite having the same HTML coding for each section, they appear differently due to using different CSS techniques such as bordering the divs, box shadow, and using different colours and list styles. I also chose some interesting icons that I found on ***www.fontawesome.com***.
+Despite having the same HTML coding for each section, they appear differently due to using different CSS techniques such as bordering the divs, box shadow, and using different colours and list styles. I also chose some interesting icons that I found on ***fontawesome***.
 
 ### Contact Page (contact.html)
 
@@ -71,3 +71,8 @@ The user is able to put their first and last name, their email address for me to
 
 Formspree acts like the middle man when sending emails. Once you have made an account on ***https://formspree.io/***, you will be given a code to put into your form tag which will allow you to receive emails without disclosing your email address. It also saves you from having to do any JavaScript as it is all done for you.
 
+For the design and layout of the contact form, I followed a youtube tutorial linked here https://www.youtube.com/watch?v=FBAfpj91hps. This showed a step-by-step process on how to build this fancy contact form, though, I added my own touches with some different HTML and CSS.
+
+I came to realise that this tutorial showed how to present a contact form but not how to make a practicle one that can actually be utilised. So, I found another Youtube video showing how to use **formspree** which entailed building a practical contact form, which is linked here https://www.youtube.com/watch?v=0X0kovjzLrw. I also researched what attributes should there be on a contact form and what to have for good practices.
+
+I tested the contact form and sent myself some emails and it works perfectly.
