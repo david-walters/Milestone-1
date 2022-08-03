@@ -77,7 +77,7 @@ I came to realise that this tutorial showed how to present a contact form but no
 
 I tested the contact form and sent myself some emails and it works perfectly.
 
-## Interesting Issues Through Developing
+## Interesting Issues During Developing
 
 Of course, as anyone would, I had many issues that I came across when developing my website from having an additional space in the coding syntax (preventing the code from working) and to using git version control with the incorrect origin  (and left me wondering why it isn't being pushed).
 
@@ -138,9 +138,9 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 
 
-### Repository Link
+### Link to My Website
 
-**https://github.com/david-walters/Milestone-1.git**
+**https://david-walters.github.io/Milestone-1/**
 
 
 
@@ -153,6 +153,4 @@ I have so much more to learn, more experience to gain, and I can imagine that I 
 
 It has been a great experience and I'm looking forward to working on my other project assignments that I shall be uploading to my portfolio for people to see.
 
-Thanks for checking this out! 
-
-:+1:
+:+1: Thanks for checking this out! :+1:
