@@ -136,9 +136,13 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 9. Selected the 'main branch' option under the 'GitHub Pages' section.
 10. Opened the provided link to my website in a new tab.
 
+
+
 ### Repository Link
 
 **https://github.com/david-walters/Milestone-1.git**
+
+
 
 
 ## Personal Overview
